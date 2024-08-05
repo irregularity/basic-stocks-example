@@ -15,4 +15,4 @@ to-do
 ~~graph predicitons~~  
 improve model accuracy
 
-working version here bit.ly/stocksappbasic
+working version here https://www.bit.ly/stocksappbasic
