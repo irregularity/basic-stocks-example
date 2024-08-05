@@ -1,0 +1,8 @@
+flask
+yfinance
+pandas
+statsmodels
+seaborn
+textblob
+waitress
+gunicorn
